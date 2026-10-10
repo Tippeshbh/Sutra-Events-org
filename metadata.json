@@ -1,0 +1,6 @@
+{
+  "name": "Sutra Events",
+  "description": "Premium event management and luxury wedding decoration platform for Sutra Events in Davangere, Karnataka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
